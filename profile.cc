@@ -1,6 +1,5 @@
 #include "profile.h"
 #include <cmath>
-#include <iostream>
 
 const double Profile::GetTime() {
   double total_time;
